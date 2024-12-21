@@ -69,3 +69,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## CREATE VERSION
 
 NODE 20.10.0 || PHP 8.3.15
+
+## Installation
+
+Just run composer install and npm install
